@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Highcodeavi/Rablo.in.git/static/css/main.1dd44f79.css",
+    "main.js": "/Highcodeavi/Rablo.in.git/static/js/main.61b26bae.js",
+    "static/js/787.f5ddd742.chunk.js": "/Highcodeavi/Rablo.in.git/static/js/787.f5ddd742.chunk.js",
+    "index.html": "/Highcodeavi/Rablo.in.git/index.html",
+    "main.1dd44f79.css.map": "/Highcodeavi/Rablo.in.git/static/css/main.1dd44f79.css.map",
+    "main.61b26bae.js.map": "/Highcodeavi/Rablo.in.git/static/js/main.61b26bae.js.map",
+    "787.f5ddd742.chunk.js.map": "/Highcodeavi/Rablo.in.git/static/js/787.f5ddd742.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dd44f79.css",
+    "static/js/main.61b26bae.js"
+  ]
+}
